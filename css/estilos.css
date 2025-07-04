@@ -1,0 +1,17 @@
+#img1{
+	width: 700px;
+	height: 400px;
+
+}
+
+body{
+	background: conic-gradient(#FF4500, #FF0000, #BA55D3, #9932CC);
+	
+}
+
+nav ul{
+	list-style-type: none;
+	width: 600px;
+	text-align: center;
+	background: #00FFFF;
+}
